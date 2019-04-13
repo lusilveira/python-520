@@ -1,9 +1,5 @@
-#Exercicio 3
 
-###########################################################
-#Nome(20) IDADE(5) # ENDEREÇO(50)
-#SEXO (2) #EMAIL(30)
-lista_de_usuarios = [
+lista_de_usuario = [
   {
     "nome": "qMHHOwoAaYECgB",
     "idade": 49,
@@ -146,16 +142,17 @@ lista_de_usuarios = [
   }
 ]
 
-TEMPLATE = '{:>20} | {:>5} | {:>50} | {:>5} | {:>35}'
-CABECALHO = TEMPLATE.format('NOME', 'IDADE', 'ENDEREÇO', 'SEXO', 'EMAIL')
+if 'l' in 'Lucas'.lower():
+  print('Dica do exercicio; D')
 
-print(CABECALHO)
-for usuario in lista_de_usuarios
-    USUARIO = TEMPLATE.format(
-        usuario['nome'],
-        usuario['idade'],
-        usuario['endereco'],
-        usuario['sexo'],
-        usuario['email'],
-  )   
-  print(usuario_formatado)   
+
+if cond_1 or cond_2:
+    if cond_3:
+        pass
+
+for usuario in lista_de_usuario
+    if 'j' in usuario['email'].lower
+    
+
+
+#Letras buscadas J ou L e idade > 25
