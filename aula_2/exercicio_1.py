@@ -16,7 +16,8 @@ def cadastrar_usuario ():
 		'Idade': input ('Digite seu Idade:\n'),
 	}
 	return novo_usuario
-	
+
 novo_usuario = cadastrar_usuario()
 #{'nome': Luciana, 'email': lu@gmail.com, 'idade': 37}
 print(novo_usuario)
+

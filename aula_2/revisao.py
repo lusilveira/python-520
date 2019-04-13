@@ -69,7 +69,7 @@ novo_gato = {
 		5, 'Digite o peso:\n','O peso deve ser um número maior que 0'
 	),
 	'Idade': tratamento_de_tentativas(
-		3, 'Digite a idade:\n','A idade deve ser maior que 1'
+		3, 'Digite a idade:\n','A idade deve ser maior que 1cl'
 	),
 	'Apelido': input ('Digite o apelido:\n')
 }
